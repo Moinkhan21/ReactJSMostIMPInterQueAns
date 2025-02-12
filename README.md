@@ -1,8 +1,4 @@
-...... 🌟 "React.js Most Important Interview Questions" 🌟 ...... 
-
-YouTube Video Link :- https://youtu.be/ugaUGuKVKUA?si=zSulzBqzA05hhbtT
-
-TIMESTAMPS
+# 🌟 React.js Most Important Interview Questions 🌟 #
 
 1.) Basic Level:
 
