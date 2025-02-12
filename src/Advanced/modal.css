@@ -1,0 +1,23 @@
+.modal {
+    /* Makes the modal fixed in position relative to the viewport */
+    position: fixed;
+
+    /* Centers the modal vertically and horizontally using percentages */
+    top: 50%;
+    left: 50%;
+
+    /* Adjusts the modal's position by translating it back by half its width and height */
+    transform: translate(-50%, -50%);
+
+    /* Adds space inside the modal between the content and its border */
+    padding: 20px;
+
+    /* Sets the modal's background color to white for better visibility */
+    background-color: white;
+
+    /* Adds a solid black border around the modal */
+    border: 1px solid black;
+
+    /* Ensures the modal appears above other elements on the page */
+    z-index: 1000;
+}
